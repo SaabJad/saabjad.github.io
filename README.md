@@ -1,6 +1,6 @@
 About Me
 
-Hello! I'm Jad Saab, a fifth-year Software Engineering student at University Antonine. I’m passionate about creating intelligent, data-driven, and user-focused software. 
+Hello! I'm Jad Saab, a fifth-year Software Engineering student at University Antonine. I’m passionate about creating intelligent, data-driven, and user focused software. 
 
 My main interests lie in Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
@@ -12,8 +12,8 @@ Expected Graduation: June 2026
 
 Technical Skills
 
-Languages: Python, Java, JavaScript, C++, C#
-Frameworks & Tools: FastAPI, PyTorch, TensorFlow, Spring Boot, Laravel, Node.js, MLflow, Docker
+Languages: Python, Java, PHP, JavaScript, C#, C++
+Frameworks & Tools: FastAPI, PyTorch, TensorFlow, MLflow, Spring Boot, Laravel, Node.js, .NET, and Docker 
 Databases: MySQL, MongoDB
 Web Technologies: HTML, CSS, JS, SQL
 Other Tools: Git, GitHub, POSTMAN, NVIDIA Omniverse
